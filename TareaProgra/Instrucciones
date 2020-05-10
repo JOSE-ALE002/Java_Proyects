@@ -1,0 +1,19 @@
+                                                     INSTRUCCIONES PARA COMPILAR EL PROYECTO BASE DE DATOS
+
+1. Importe la base de datos "Compra" localizada junto a el proyecto de base de datos a su servidor local phpmyamin.
+2. Descomprima el zip de base de datos y habra el proyecto en netbeans.
+3. Compile y corra el proyecto
+
+                                                                
+                                                              POSIBLES PROBLEMAS AL COMPILAR
+
+1. PROBLEMA AL IMPORTAR LA TABLA
+
+Si se presentan problemas al importar la base de datos a su servidor local, proceda a crear una nueva base de datos en su servidor local, luego procede a importar la base de datos "Compra" que se dejara junto al zip del proyecto base de datos a la nueva base que ha creado en su servidor local, al hacerlo cargaran las tablas de dicha base con sus respectivos registros.
+
+2. PROBLEMA CONEXION AL LOCALHOST
+
+Si se presentan problemas con la contraseña de usuario, se recomienda que revise su contraseña de usuario, si posee contraseña en su localhost proceda a ir al paquete del proyecto llamado "Connection", y proceda a escribir su contraseña de host, esto ya que el proyecto no posee contraseña, por lo que si tiene contraseña se recomienda seguir este paso.
+
+
+

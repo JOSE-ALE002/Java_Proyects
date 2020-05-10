@@ -1,0 +1,12 @@
+
+	    >> Factura Telefonia <<
+
+	  ID: 1
+	  Nombre: Chepillo
+	  Telefono: 113123
+	  Minutos de llamada: 16 min
+	  Region: Nacional
+	  Iva: 0,02 ctv
+	  ISeg: 0,01 ctv
+	  total Impuesto: 0,03 ctv
+	* Total: 0,59 ctv
